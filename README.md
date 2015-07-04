@@ -42,6 +42,7 @@ The form you create needs to be functional with the following criteria you need 
 ### Submitting your assessment:
 * Once you are complete with your assessment, you are required to add it to an online repository where we can access your code to assess it.
 * Please use a public repository on Github or Bitbucket
+* Send the link to your repository to the email address listed below
 
 Good luck, and if you have any questions please feel free to contact us.  
 
