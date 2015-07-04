@@ -5,7 +5,7 @@ Date: 3 July 2015
 ## Deliverables
 * Completion of HTML, jQuery and LESS/SASS files for the supplied PSDs
 * Functionality to be completed in PHP (CodeIgniter/Laravel)
-* Must work in IE9+ and latest versions of Firefox and Chrome
+* Must work in IE9+ and latest versions of Firefox and Chrome, iPad 4, iPhone 5, Samsung Galaxy S4
 * HTML5 semantic markup and CSS3 styles and selectors need to be used extensively
 * Use of the following CSS features is required:
   * CSS3 Animations
